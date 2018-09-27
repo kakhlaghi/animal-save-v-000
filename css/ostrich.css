@@ -11,6 +11,7 @@ html {
 /* Write your solution here */
 @media (min-width: 992){
   #ostrich{
-    position: absolute;
+    position: relative;
+    top: 100px;
   }
 }
