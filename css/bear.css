@@ -9,6 +9,6 @@ html {
 }
 
 /* Write your solution here */
-@meadia (max-width: 1196px) {
+@media (max-width: 1196px) {
   margin-right: 800px
 }
