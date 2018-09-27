@@ -10,5 +10,6 @@ html {
 
 /* Write your solution here */
 @media (max-width: 1196px) {
-   margin-right: 800px
+   #bear {margin-right: 800px
+   }
 }
